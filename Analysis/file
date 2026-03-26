@@ -1,0 +1,6 @@
+📁 analysis/                       # Phase-by-phase work
+   ├── netflix_data_v0.xlsx           # Pre-cleaning backup
+   ├── netflix_data_univariate_analysis.xlsx
+   ├── netflix_data_bivariate_analysis.xlsx
+   ├── netflix_top_performers.xlsx
+   └── netflix_eda_notes.xlsx         # Analysis documentation
