@@ -1,0 +1,4 @@
+📁 data/                              # Raw + Clean Data
+│   ├── netflix1.csv                   # Original raw dataset
+│   ├── netflix_v1.csv                 # Intermediate clean
+│   └── netflix.csv                    # Final cleaned dataset
